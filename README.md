@@ -1,2 +1,1 @@
-# shulhaandrii_game.github.io-
-Game
+# ShulhaAndriy.github.io/Game
